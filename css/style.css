@@ -551,7 +551,7 @@ p a:hover {
 	border-top: 2px solid #fff;
 }
 #footer .section {
-	float: left;
+	float: right;
 	min-height: 146px;
 	width: 259px;
 	border-left: 1px solid #fff;
@@ -579,7 +579,7 @@ p a:hover {
 	padding: 6px 0 3px;
 }
 #footnote p {
-	color: #b5c1aa;
+	color: #fff;
 	font: 11px/30px Arial, Helvetica, sans-serif;
 	margin: 0;
 	padding-right: px;
