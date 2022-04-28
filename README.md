@@ -4,9 +4,9 @@
 This book collection is a simple website using HTML and CSS. It contains different genre of books from different websites. The books that you will see inside this website are not our own, but rather we just collect those books so that if there is someone visiting our website, they can just click the "read more" button and it will direct to the original website for which they can read more about the books and purchase it if they want to. 
 
 
-## URL
+## URL 🔗
 
- [@example.com]()
+ https://sorsogon-state-university-bulan-campus.github.io/bsit-2-3-2022-grp-6-evano-et-al/
 
 ## FAQ ❓❓
 
